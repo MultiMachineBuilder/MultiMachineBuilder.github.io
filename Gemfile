@@ -34,3 +34,6 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 
 # Webrick
 gem "webrick"
+
+#SEO tag
+gem 'jekyll-seo-tag'
