@@ -5,13 +5,15 @@
 layout: home
 ---
 
+**MultiMachineBuilder - a voxel game about building an industrial empire in a finite world**
 ![[∞]](/assets/images/banner.png)
 
-MultiMachineBuilder is a voxel game about building an industrial empire in a finite world <br>
-[Download](https://github.com/MultiMachineBuilder/MultiMachineBuilder/releases) |
+[Download now](https://github.com/MultiMachineBuilder/MultiMachineBuilder/releases) |
+[Get started](setup.html) |
 [Repo](https://github.com/MultiMachineBuilder/MultiMachineBuilder) |
 [Report a bug](https://github.com/MultiMachineBuilder/MultiMachineBuilder/issues) |
-[Contribute to this site](https://github.com/MultiMachineBuilder/MultiMachineBuilder.github.io)
+[Contribute to this site](https://github.com/MultiMachineBuilder/MultiMachineBuilder.github.io) |
+[Wiki](https://github.com/MultiMachineBuilder/MultiMachineBuilder/wiki)
 
 Features:
 * Realistic, volumetric inventories
@@ -33,3 +35,8 @@ Content:
 * 21 types of machines
 * 13 wire materials
 * 6 different generators across 4 voltages
+
+### Copyright
+![](/assets/images/logo16.png)™ 
+The game is released under the terms of General Public License v3. <br>
+The website is released under the terms of ![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)
