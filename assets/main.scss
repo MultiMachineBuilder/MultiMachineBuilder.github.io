@@ -1,0 +1,19 @@
+---
+---
+
+@import "minima";
+
+.site-title::before {
+	content: url("/assets/images/logo32.png");
+	display: inline-block;
+	position: relative;
+	width: 32px;
+	top: 8px;
+}
+
+
+
+
+head::before{
+	content: '<link rel="icon" type="image/png" href="/favicon.png"/>';
+}

@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MultiMachineBuilder
+logo: 
 email: monniasza.machines@onet.pl
 description: >- # this means to ignore newlines until "baseurl:"
   MultiMachineBuilder - A voxel game about building an industrial empire in a finite world
@@ -28,6 +29,7 @@ rss: /feed.xml
 social_links:
     twitter: jekyllrb
     github: MultiMachineBuilder
+    facebook: Multi Machine Builder
 # Build settings
 markdown: kramdown
 theme: minima
