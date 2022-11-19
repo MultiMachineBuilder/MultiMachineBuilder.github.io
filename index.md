@@ -4,6 +4,7 @@
 
 layout: home
 ---
+This website uses Google Analytics.
 
 **MultiMachineBuilder - a voxel game about building an industrial empire in a finite world**
 ![[∞]](/assets/images/banner.png)
