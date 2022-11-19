@@ -24,6 +24,7 @@ url: "https://multimachinebuilder.github.io/" # the base hostname & protocol for
 #Social media
 twitter_username: jekyllrb
 github_username: MultiMachineBuilder
+facebook_username: Multi Machine Builder
 rss: /feed.xml
 
 social_links:
