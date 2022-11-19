@@ -10,3 +10,8 @@
 	width: 32px;
 	top: 8px;
 }
+
+.footer-col-wrapper::after{
+	content: url("/assets/images/logo16.png")™;
+	display: inline-block;
+}
