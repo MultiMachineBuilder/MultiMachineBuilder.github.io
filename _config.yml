@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MultiMachineBuilder
-logo: 
 email: monniasza.machines@onet.pl
 description: >- # this means to ignore newlines until "baseurl:"
   MultiMachineBuilder - A voxel game about building an industrial empire in a finite world
@@ -22,7 +21,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://multimachinebuilder.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #Social media
-twitter_username: jekyllrb
 github_username: MultiMachineBuilder
 facebook_username: MultiMachineBuilder
 rss: /feed.xml
