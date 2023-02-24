@@ -32,8 +32,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Google Analytics
-google_analytics: G-LMGZ7NH5Z0
+# Google Analytics (unworkable)
+# google_analytics: G-LMGZ7NH5Z0
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
