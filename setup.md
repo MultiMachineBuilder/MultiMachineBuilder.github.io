@@ -25,6 +25,7 @@ categories: help
 
 ## Basic controls
 * W, A, S, D - move the camera
+* Q - stop the character now
 * Arrows - move the player (the player has momentum)
 * LMB - place the block or use the item
 * RMB - open a pop-up menu
