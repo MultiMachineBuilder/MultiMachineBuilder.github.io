@@ -10,5 +10,5 @@ Core developer:
 - [Monniasza](https://github.com/orgs/MultiMachineBuilder/people/Monniasza)
 
 Co-Developers:
-- [unxcepted](https://github.com/unxcepted) (developed an MP3 loader)
+- [unxcepted](https://github.com/unxcepted) (developed an MP3 loader, now removed from source, because a better loader was developed)
 - [Ergox](https://github.com/orgs/MultiMachineBuilder/people/Ergox) (designed leaves, leaf, planks, assembly table, stone, and ingot)
