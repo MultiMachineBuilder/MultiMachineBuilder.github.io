@@ -26,11 +26,11 @@ Features:
 * ...and more in future
 
 Content:
-* Selection of over 1760 different items, including 461 blocks
+* Selection of over 1760 different items, including 466 blocks
 * 61 materials, including 24 naturally generated ones
 * 19 different machines
 * Hundreds of parts
-* 9 voltages
+* 9 voltages, 3 currently available for machines and 1 for power transmission only
 * 17 material form factors
 * 21 types of machines
 * 13 wire materials
@@ -38,5 +38,5 @@ Content:
 
 ### Copyright
 ![](/assets/images/logo16.png)™ 
-The game is released under the terms of General Public License v3. <br>
+The game is released under the terms of GNU General Public License v3. <br>
 The website is released under the terms of ![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)
