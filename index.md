@@ -9,6 +9,7 @@ layout: home
 ![[∞]](/assets/images/banner.png)
 
 [Download now](https://github.com/MultiMachineBuilder/MultiMachineBuilder/releases) |
+[itch.io](https://monniasza.itch.io/multimachinebuilder) |
 [Get started](setup.html) |
 [Repo](https://github.com/MultiMachineBuilder/MultiMachineBuilder) |
 [Report a bug](https://github.com/MultiMachineBuilder/MultiMachineBuilder/issues) |
