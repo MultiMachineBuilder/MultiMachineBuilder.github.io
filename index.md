@@ -14,7 +14,8 @@ layout: home
 [Repo](https://github.com/MultiMachineBuilder/MultiMachineBuilder) |
 [Report a bug](https://github.com/MultiMachineBuilder/MultiMachineBuilder/issues) |
 [Contribute to this site](https://github.com/MultiMachineBuilder/MultiMachineBuilder.github.io) |
-[Wiki](https://github.com/MultiMachineBuilder/MultiMachineBuilder/wiki)
+[Wiki](https://github.com/MultiMachineBuilder/MultiMachineBuilder/wiki) |
+[YouTube](https://www.youtube.com/channel/UCHDT5lQd4zG2rdZnntzgitA)
 
 Features:
 * Realistic, volumetric inventories
