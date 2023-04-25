@@ -12,12 +12,12 @@ layout: home
 [itch.io](https://monniasza.itch.io/multimachinebuilder) |
 [Get started](setup.html) |
 [Repo](https://github.com/MultiMachineBuilder/MultiMachineBuilder) |
-[Contribute tp the game](https://github.com/MultiMachineBuilder/MultiMachineBuilder/blob/master/CONTRIBUTING.md) |
+[Contribute to the game](https://github.com/MultiMachineBuilder/MultiMachineBuilder/blob/master/CONTRIBUTING.md) |
 [Report a bug](https://github.com/MultiMachineBuilder/MultiMachineBuilder/issues) |
-[Contribute to this site](https://github.com/MultiMachineBuilder/MultiMachineBuilder.github.io) |
 [Wiki](https://github.com/MultiMachineBuilder/MultiMachineBuilder/wiki) |
 [YouTube](https://www.youtube.com/channel/UCHDT5lQd4zG2rdZnntzgitA) |
-[Announcement thread](https://itch.io/t/2756901/multimachinebuilder-dev-05)
+[Announcement thread](https://itch.io/t/2756901/multimachinebuilder-dev-05) |
+[Contribute to this site](https://github.com/MultiMachineBuilder/MultiMachineBuilder.github.io)
 
 Features:
 * Realistic, volumetric inventories
