@@ -31,6 +31,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Google Analytics (unworkable)
 # google_analytics: G-LMGZ7NH5Z0
