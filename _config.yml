@@ -16,7 +16,7 @@
 title: MultiMachineBuilder
 email: monniasza.machines@onet.pl
 description: >- # this means to ignore newlines until "baseurl:"
-  MultiMachineBuilder - A voxel game about building an industrial empire in a finite world
+  A voxel game about building an industrial empire in a finite world
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://multimachinebuilder.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
