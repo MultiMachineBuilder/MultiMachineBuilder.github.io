@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+tags: multimachinebuilder factorio mindustry industrial
 ---
 
 **MultiMachineBuilder - a voxel game about building an industrial empire in a finite world**
