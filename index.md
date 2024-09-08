@@ -18,7 +18,8 @@ tags: multimachinebuilder factorio mindustry industrial
 [Wiki](https://github.com/MultiMachineBuilder/MultiMachineBuilder/wiki) |
 [YouTube](https://www.youtube.com/channel/UCHDT5lQd4zG2rdZnntzgitA) |
 [Announcement thread](https://itch.io/t/2756901/multimachinebuilder-dev-05) |
-[Contribute to this site](https://github.com/MultiMachineBuilder/MultiMachineBuilder.github.io)
+[Contribute to this site](https://github.com/MultiMachineBuilder/MultiMachineBuilder.github.io)|
+[Discord](https://discord.gg/3f9wdg4B)
 
 Features:
 * Realistic, volumetric inventories
