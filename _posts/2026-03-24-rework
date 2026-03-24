@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "A big change. MultiMachineBuilder 1a1 will not load saves from 0.x"
+---
+
+After a long period of development and testing, MultiMachineBuilder is taking a **major step forward**. The upcoming release, **1a1**, introduces a completely new engine architecture — which means **it will not load saves from any 0.x version**.
+
+## Why the break?
+
+MultiMachineBuilder has grown beyond its original design. To support more complex worlds, modding capabilities, and future expansion, we needed to:
+
+- Switch block, item, and part types to **immutable data structures**
+- Move from flat-file saves to a **relational + document-based world storage**
+- Enable **world-specific mods, textures, and sounds**
+- Introduce a clean separation between **core blocks** and **mod-added polymorphic blocks**
+- Improve handler systems for **power, items, fluids, and signals**
+
+These changes are fundamental, and keeping compatibility with old 0.x saves would compromise engine stability and prevent the new features from being fully realized.
+
+## What’s new in 1a1
+
+- **Immutable block, item, and part types** for safer and cleaner code
+- **Relational database for core world data** and **JSON document storage for polymorphic blocks**
+- **Per-world mod and asset support** (textures, sounds, scripts)
+- **Improved handler system** for power, fluid, item, and signal connections
+- **Versioned save files** with a new file extension to clearly separate them from old saves
+- **Pipes now can have modules attached**
+- **Hangable wires** for early crossings.
+- **Reworked power system** with more tiers. Now only SLV and ULV. Planned hierarchy:
+  - SLV - Super Low Voltage
+  - ULV - Ultra Low Voltage
+  - VLV - Very Low Voltage
+  -  LV - Low Voltage
+  -  MV - Medium Voltage
+  -  HV - High Voltage
+  -  EV - Extreme Voltage
+  -  IV - Insane Voltage
+  - LuV - Ludicrous Voltage
+  -  UV - Ultimate Voltage
+  -  PV - Penultimate Voltage
+  -  XV - Exavoltage
+  -  ZV - Zettavoltage
+  -  YV - Yottavoltage
+  -  RV - Ronnavoltage
+  -  QV - Quettavoltage
+
+## What this means for players
+
+- Existing 0.x saves **cannot be loaded** in 1a1.  
+- Every new world will use the new engine and save format.  
+- Mods and assets are now **world-specific**, allowing different worlds to run different mods independently.  
+- The upgrade ensures **cleaner, faster, and more extensible worlds** for future development.
+
+## Moving forward
+
+This is a **fresh start**. While it means leaving old worlds behind, it also unlocks **powerful new possibilities** for modding, multi-system interactions, and long-term stability. We are committed to building a **strong foundation** for MultiMachineBuilder’s next evolution.
+
+We recommend backing up your 0.x worlds if you wish to preserve them, but know that they will remain **incompatible** with the new engine.
+
+Thank you for your support, and we’re excited to see what you create with **1a1**!
